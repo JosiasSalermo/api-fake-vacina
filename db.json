@@ -1,9 +1,9 @@
 {
     "vacina":[
-        { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "data_validade": "2024-12-31", "dosesAmpola": "5"},
-        { "id":2, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com adenovirus", "numeroLote": "246789-1", "data_validade": "2024-12-31", "dosesAmpola": "5"},
-        { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "data_validade": "2024-12-31","dosesAmpola": "5"},
-        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "data_validade": "2024-12-31","dosesAmpola": "5"}
+        { "id":1, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "12345-6", "dataValidade": "2024-12-31", "dosesAmpola": "5"},
+        { "id":2, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com adenovirus", "numeroLote": "246789-1", "dataValidade": "2024-12-31", "dosesAmpola": "5"},
+        { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "dataValidade": "2024-12-31","dosesAmpola": "5"},
+        { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dataValidade": "2024-12-31","dosesAmpola": "5"}
     ],
     "descarte":[
         { "id":1, "quantidade": "200"},
