@@ -21,9 +21,9 @@
     ],
     "fornecedor":[
         {"id": 1, "nomeFornecedor": "Butantan", "email":"contato@institutobutantan.com.br", "cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Coronavac", "tipoVacina": "virus inativado"},
-        {"id": 2, "nomeFantasia": "Astrazenica", "email":"contato@astrazenica.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Astrazenica", "tipoVacina": "virus inativado"},
-        {"id": 3, "nomeFantasia": "Fio Cruz", "email":"contato@fiocruz.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Bivalente", "tipoVacina": "virus inativado"},
-        {"id": 4, "nomeFantasia": "Pfazer", "email":"contato@pfazer.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Covid RNA", "tipoVacina": "virus inativado"}
+        {"id": 2, "nomeFornecedor": "Astrazenica", "email":"contato@astrazenica.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Astrazenica", "tipoVacina": "virus inativado"},
+        {"id": 3, "nomeFornecedor": "Fio Cruz", "email":"contato@fiocruz.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Bivalente", "tipoVacina": "virus inativado"},
+        {"id": 4, "nomeFornecedor": "Pfazer", "email":"contato@pfazer.com.br","cnpj": "12345698/001", "ddd": "32", "telefone": "12345678788","logradouro": "Rua das Rosas", "numero": 32,"complemento": "apartamento", "uf": "MG","cidade" : "Juiz de Fora", "nomeVacina": "Covid RNA", "tipoVacina": "virus inativado"}
         
     ]
 }
