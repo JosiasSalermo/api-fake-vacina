@@ -5,6 +5,12 @@
         { "id":3, "nomeVacina": "Covid19", "descricao": "Vacina de Covid19 com RNA", "numeroLote": "345678-0", "dataValidade": "2024-12-31","dosesAmpola": "5", "tipoVacina": "ácidos nucleicos", "idFabricante":"123","dadosFabricante":"Não sei"},
         { "id":4, "nomeVacina": "Influenza A(H1N1)", "descricao": "Vacina de Covid19 com virus inativado", "numeroLote": "339164-1", "dataValidade": "2024-12-31","dosesAmpola": "5", "tipoVacina": "subunidades", "idFabricante":"123","dadosFabricante":"Não sei"}
     ],
+    "tipoVacina":[
+        {"id": 1, "tipoVacina":"Vírus Inativado", "descricao": "Vacina de Covid19 com virus inativado"},
+        {"id": 2, "tipoVacina":"Vírus Atenuados", "descricao": "Vacina de Covid19 com virus atenuado"},
+        {"id": 3, "tipoVacina":"Ácidos Nucleicos", "descricao": "Vacina de Covid19 com ácidos nucleicos"},
+        {"id": 4, "tipoVacina":"SubUnidades", "descricao": "Vacina de Covid19 com subUnidades"}
+      ],
     "agenda":[
         { "id":1, "nome": "João", "cpf": "012345677-78", "email": "joao@gmail.com","dataNasc": "2020-11-23","ddd": "32","telefone":"999988765","nomeVacina": "CoronaVac", "tipoVacina": "virus inativado", "dataVacinacao": "2023-11-17","horaVacinacao": "12:15"},
         { "id":2, "nome": "Fernando", "cpf": "012345688-78", "email": "fernando@gmail.com","dataNasc": "2021-12-29","ddd": "32","telefone":"988776655","nomeVacina": "pFizer", "tipoVacina": "vírus atenuados", "dataVacinacao": "2023-11-17","horaVacinacao": "12:15"},
