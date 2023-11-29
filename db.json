@@ -17,6 +17,12 @@
         {"id":3, "quantidade": 25},
         {"id":4, "quantidade": 39}
       ],
+      "estoque":[
+        {"id":1, "qtdMinima": 230, "qtdMaxima": 500, "ressuprimento":300},
+        {"id":2, "qtdMinima": 110, "qtdMaxima": 700, "ressuprimento":500},
+        {"id":3, "qtdMinima": 57, "qtdMaxima": 1000, "ressuprimento":400},
+        {"id":4, "qtdMinima": 92, "qtdMaxima": 1200, "ressuprimento":700}
+      ],
     "agenda":[
         { "id":1, "nome": "João", "cpf": "012345677-78", "email": "joao@gmail.com","dataNasc": "2020-11-23","ddd": "32","telefone":"999988765","nomeVacina": "CoronaVac", "tipoVacina": "virus inativado", "dataVacinacao": "2023-11-17","horaVacinacao": "12:15"},
         { "id":2, "nome": "Fernando", "cpf": "012345688-78", "email": "fernando@gmail.com","dataNasc": "2021-12-29","ddd": "32","telefone":"988776655","nomeVacina": "pFizer", "tipoVacina": "vírus atenuados", "dataVacinacao": "2023-11-17","horaVacinacao": "12:15"},
