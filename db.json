@@ -22,12 +22,5 @@
         {"id":2, "qtdMinima": 110, "qtdMaxima": 700, "ressuprimento":500},
         {"id":3, "qtdMinima": 57, "qtdMaxima": 1000, "ressuprimento":400},
         {"id":4, "qtdMinima": 92, "qtdMaxima": 1200, "ressuprimento":700}
-      ],
-    "funcionarios":[
-        { "id":1, "nomeFuncionario": "João Victor", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "técnico em enfermagem", "perfilAcesso": "enfermagem", "Especialidade": "","conselho": "357995"  },
-        { "id":2, "nomeFuncionario": "Paulo Cesar", "email": "joaovictor@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "enfermeiro", "perfilAcesso": "enfermagem I", "Especialidade": "","conselho": "357995"  },
-        { "id":3, "nomeFuncionario": "Maria Clara", "email": "mariaclara@gmail.com", "cpf": "1234567890", "dataNasc": "2020-10-13","ddd": "32","telefone": "98888776655", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "secretária", "perfilAcesso": "administrativo", "Especialidade": "","conselho": "357995"  },
-        { "id":4, "nomeFuncionario": "Lúcio", "email": "lucio@gmail.com", "cpf": "01233456789", "dataNasc": "2020-11-23","ddd": "32","telefone": "999998877", "fotoPerfil": "", "logradouro": "Rua", "numero": "32", "complemento": "","cep": "36023145", "estado": "MG","cidade": "Juiz de Fora","cargo": "medico", "perfilAcesso": "medico", "Especialidade": "","conselho": "357995"  }
-        
-    ]
+      ]
 }
