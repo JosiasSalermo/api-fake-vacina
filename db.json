@@ -80,5 +80,31 @@
       "qtdMaxima": 1200,
       "ressuprimento": 700
     }
+  ],
+  "lote": [
+    {
+      "id": 1,
+      "numeroLote": "12345-6",
+      "dataValidade": "2024-12-31",
+      "qtdDoses": 5
+    },
+    {
+      "id": 2,
+      "numeroLote": "246789-1",
+      "dataValidade": "2024-12-31",
+      "qtdDoses": 5
+    },
+    {
+      "id": 3,
+      "numeroLote": "345678-0",
+      "dataValidade": "2024-12-31",
+      "qtdDoses": 5
+    },
+    {
+      "id": 4,
+      "numeroLote": "339164-1",
+      "dataValidade": "2024-12-31",
+      "qtdDoses": 5
+    }
   ]
 }
